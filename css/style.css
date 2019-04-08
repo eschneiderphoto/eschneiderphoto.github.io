@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,900);
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #fff;
+  margin-top: 65px;
+}
+
+.navbar {
+  -webkit-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.49);
+  -moz-box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.49);
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.49);
+  
+  border: none;
+}
+
+h1 {
+  font-size: 48px;
+  color: white;
+}
+
+.row1 {
+  //background-color: none;
+  
+}
+
+.img1 {
+  width: 300px;
+}
+
+.shadow {
+  -webkit-box-shadow: 0px 0px 9px 1px rgba(0,0,0,0.43);
+-moz-box-shadow: 0px 0px 9px 1px rgba(0,0,0,0.43);
+box-shadow: 0px 0px 9px 1px rgba(0,0,0,0.43);
+}
+
+.jumbotron {
+  background-color: #D7D7D7;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.name {
+  top: 50%;
+}
+
+.picbot {
+  margin: 0px;
+  padding: 2px;
+}
+
+.darkgrey {
+  color: #444;
+}
+
+.topimg {
+  background-image: url("http://i.imgur.com/bY1416K.jpg");
+}
+
+
+.label {
+  text-align="center";
+}
+
+.contact {
+  font-size: 26px;
+  margin-left: 20px;
+}
+
+.icon {
+  color: #333;
+}
